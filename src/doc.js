@@ -1,14 +1,14 @@
-// Introduction to React Props
+// Introduction to React Props--
 
-// Type of Props
+// Type of Props--
 
-// Destructuring
+// Destructuring --
 
 // Handling Events**
 
-// PropTypes
+// PropTypes**
 
-// Default Props
+// Default Props**
 
 // Children Props
 
